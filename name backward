@@ -1,0 +1,3 @@
+Name = input ("input your name\n:" )
+backwards = Name[::-1]
+print(backwards)
